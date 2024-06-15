@@ -1,3 +1,8 @@
+## Description:
+<p id="description">CipherTool Pro is a Python-based desktop application offering an intuitive interface for encryption and decryption. Utilizing the tkinter library, it supports multiple ciphers including Playfair, Caesar, Vigenère, DES, and AES. With user-friendly features such as dual mode operations, clear input handling, and comprehensive error messages, CipherTool Pro makes cryptographic techniques accessible and easy to use.</p>
+
+
+
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
