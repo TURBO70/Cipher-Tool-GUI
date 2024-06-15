@@ -53,7 +53,7 @@ Here're some of the project's best features:
 
 
 
-## Usage
+## Usage:
 * Select Cipher: Choose the desired cipher from the dropdown menu.
 * Choose Mode: Select either "Encrypt" or "Decrypt" mode.
 * Enter Text: Input the plaintext or ciphertext in the provided text area.
