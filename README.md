@@ -1,7 +1,3 @@
-## Description:
-<p id="description">.</p>
-
-
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
@@ -35,6 +31,8 @@ Here're some of the project's best features:
 
 
 
+
+
 ## 🛠️ Cipher Implementations:
 
 * Playfair Cipher: Implements character pairing and key table generation for both encryption and decryption.
@@ -45,6 +43,8 @@ Here're some of the project's best features:
 * Rail Fence Cipher: Transposes characters along a rail fence pattern.
 * Row Transposition Cipher: Rearranges characters based on a numeric key.
 * DES and AES: Utilizes external libraries (pyDes for DES and Crypto.Cipher for AES) to perform block cipher operations with appropriate padding and encoding.
+
+
 
 
 
